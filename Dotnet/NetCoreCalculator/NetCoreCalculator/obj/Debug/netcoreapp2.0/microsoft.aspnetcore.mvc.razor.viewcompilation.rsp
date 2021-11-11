@@ -1,0 +1,12 @@
+/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=NetCoreCalculator
+--content-root=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Home/About.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Home/Contact.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Home/Index.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Shared/Error.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Shared/_Layout.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/_ViewImports.cshtml
+--file=/var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/Views/_ViewStart.cshtml
