@@ -1,3 +1,0 @@
-is_global = true
-build_property.RootNamespace = NetCoreCalculator
-build_property.ProjectDir = /var/lib/jenkins/workspace/Dotnet/NetCoreCalculator/NetCoreCalculator/
